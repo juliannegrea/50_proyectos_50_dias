@@ -8,8 +8,8 @@ El objetivo de este desafío es proporcionar ejercicios prácticos que te ayuden
 
 ## Uso 🚀
 
-1. **Clona el repositorio:**
-2. **Navega a la carpeta del proyecto deseado:**
+1. **Clona el repositorio:** git clone https://github.com/tuusuario/50proyectos_50_dias.git
+2. **Navega a la carpeta del proyecto deseado:** cd 50proyectos_50_dias/proyecto-dia-x
 3. **Abre el archivo `index.html` en tu navegador para ver el proyecto en acción**
 
 ## Autor 👤
