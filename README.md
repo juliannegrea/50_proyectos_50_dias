@@ -9,13 +9,13 @@ El objetivo de este desafío es proporcionar ejercicios prácticos que te ayuden
 ## Uso 🚀
 
 1. **Clona el repositorio:**
-   git clone https://github.com/tuusuario/50proyectos_50_dias.git
-2.**Navega a la carpeta del proyecto deseado:**
-   cd 50proyectos_50_dias/proyecto-dia-x
-3.**Abre el archivo index.html en tu navegador para ver el proyecto en acción**
+2. **Navega a la carpeta del proyecto deseado:**
+3. **Abre el archivo `index.html` en tu navegador para ver el proyecto en acción**
 
-##Autor 👤
-Creado por Tu Nombre. Puedes seguirme en GitHub para ver más proyectos
+## Autor 👤
 
-##Licencia 📄
+Creado por juliannegrea. Puedes seguirme en GitHub para ver más proyectos.
+
+## Licencia 📄
+
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
